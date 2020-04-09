@@ -1,0 +1,11 @@
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.csprojAssemblyReference.cache
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.csproj.CoreCompileInputs.cache
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.AssemblyInfoInputs.cache
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.AssemblyInfo.cs
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.deps.json
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.runtimeconfig.json
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.runtimeconfig.dev.json
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.dll
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.pdb
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.dll
+/Users/williamphipps/Desktop/CodingDojo/CSharp/OOP/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.pdb
